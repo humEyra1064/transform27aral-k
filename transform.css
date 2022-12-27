@@ -4,3 +4,21 @@
     margin:2rem auto;
     width: 50vw;
 }
+/* rotate için ...degree(deg) olarak değer verilir */
+.yazi1{
+    background-color: chocolate;
+    transform: rotateX(180deg);
+}
+.yazi2{
+    background-color: fuchsia;
+    transform: rotateY(180deg);
+}
+.yazi3{
+    background-color: lawngreen;
+    transform: rotate(-20deg);
+}
+img{
+    transform: rotate(-130deg);
+}
+
+/* ************TRANSFORM SCALE******/
